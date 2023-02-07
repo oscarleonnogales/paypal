@@ -2,6 +2,10 @@
   "name": "js-sdk-standard-integration",
   "version": "1.0.0",
   "description": "A demo of how JS SDK works for standard checkout integration",
+  "engines": {
+    "node": ">=14",
+    "npm": ">=8"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node server/index.js"
